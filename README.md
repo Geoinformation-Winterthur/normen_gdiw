@@ -1,6 +1,6 @@
-# Verwendete Normen im Umfeld der Geodateninfrastruktur
+# Geodateninfrastruktur Winterthur: Normen, Standards und Applikationen mit Wartungsvertrag
 
-Auflistung der verwendeten **Normen und Standards** im Umfeld der **Geodateninfrastruktur Winterthur** (_GDIW_).
+Dieses Dokument gibt eine Zusammenstellung der in der **Geodateninfrastruktur Winterthur (GDIW)** verwendeten **Normen und Standards** sowie der **zentralen Applikationen mit laufendem Wartungsvertrag**. Es dient als Referenz für Betrieb, Beschaffung und Zusammenarbeit innerhalb der Stadtverwaltung Winterthur sowie mit externen Partnern.
 
 ## Abkürzungsverzeichnis
 
@@ -13,6 +13,7 @@ Auflistung der verwendeten **Normen und Standards** im Umfeld der **Geodateninfr
 | **DM01AVCH24**| Datenmodell der Amtlichen Vermessung des Kantons Zürich                                                |
 | **DXF**       | Drawing Interchange Format                                                                              |
 | **eCH**       | E-Government Standards Schweiz                                                                          |
+| **FME**       | Feature Manipulation Engine                                                                          |
 | **GeoJSON**   | Geospatial JavaScript Object Notation                                                                   |
 | **GIS**       | Geoinformationssystem                                                                                   |
 | **GML**       | Geography Markup Language                                                                               |
@@ -46,3 +47,17 @@ Auflistung der verwendeten **Normen und Standards** im Umfeld der **Geodateninfr
 | **ISO 19115**                | Vorgaben zur Beschreibung geographischer Datensätze.                                                                                                                    | Geometadaten-Austausch zwischen Stadt Winterthur und BfS.                                             |
 | **ISO 19139**                | XML-Schema-Definition für ISO 19115.                                                                                                                                     | Geometadaten-Austausch zwischen Stadt Winterthur und BfS.                                   |
 | **OGC CSW**                  | Webservice zur Bereitstellung von Metadaten nach ISO 19139/19115.                                                                                                        | Indirekte Nutzung durch Bereitstellung von Winterthurer Geometadaten im Geometadaten-Katalog geocat.ch des BfS.                                    |
+
+## Applikationen für die Geodateninfrastruktur Winterthur mit laufendem Wartungsvertrag
+
+| Applikation                                     | Einsatzzweck                               | Anbieter          | Hauptsitz              |
+| ----------------------------------------------- | ------------------------------------------ | ----------------- | ---------------------- |
+| Stadtplan Winterthur                            | Öffentliche Web-GIS-Applikation            | sourcepole AG     | 🇨🇭 Zürich, Schweiz      |
+| Diverse AutoCAD Map Fachschalen                 | Leitungskataster, Strassenmanagement u.a.  | Geobox AG         | 🇨🇭 Winterthur, Schweiz  |
+| TBview                                          | Intranet-WebGIS-Client & Viewer            | GERST engineering | 🇩🇪 Rheine, Deutschland  |
+| FME                                             | ETL- und Automations-Platform für Geodaten | Safe Software     | 🇨🇦 Surrey, Kanada       |
+| Diverse Autodesk-Applikationen (AutoCAD Map 3D) | CAD-/GIS-Authoring & Basis für Fachschalen | Autodesk          | 🇺🇸 San Francisco, USA   |
+| ArcGIS                                          | Desktop- und Online-GIS            | Esri              | 🇺🇸 Redlands, USA        |
+| Jira                                            | Ticket- und Kollaborations-Plattform       | Atlassian         | 🇦🇺 Sydney, Australien   |
+
+Die hier gelisteten Produktnamen sind eingetragene Marken der jeweiligen Unternehmen. Die Stadt Winterthur erhebt keinen Anspruch auf diese Marken.
