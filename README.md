@@ -54,10 +54,12 @@ Dieses Dokument gibt eine Zusammenstellung der in der **Geodateninfrastruktur Wi
 | ----------------------------------------------- | ------------------------------------------ | ----------------- | ---------------------- |
 | Stadtplan Winterthur                            | Öffentliche Web-GIS-Applikation            | sourcepole AG     | 🇨🇭 Zürich, Schweiz      |
 | Diverse AutoCAD Map Fachschalen                 | Leitungskataster, Strassenmanagement u.a.  | Geobox AG         | 🇨🇭 Winterthur, Schweiz  |
+| Digitilt Inklinometer und Reader                | Inklinometermessungen                      | GeoSolutions International Ltd.  | 🇨🇭 Othmarsingen, Schweiz   |
 | TBview                                          | Intranet-WebGIS-Client & Viewer            | GERST engineering | 🇩🇪 Rheine, Deutschland  |
 | FME                                             | ETL- und Automations-Platform für Geodaten | Safe Software     | 🇨🇦 Surrey, Kanada       |
 | Diverse Autodesk-Applikationen (AutoCAD Map 3D) | CAD-/GIS-Authoring & Basis für Fachschalen | Autodesk          | 🇺🇸 San Francisco, USA   |
-| ArcGIS                                          | Desktop- und Online-GIS            | Esri              | 🇺🇸 Redlands, USA        |
+| ArcGIS                                          | Desktop- und Online-GIS                    | Esri              | 🇺🇸 Redlands, USA        |
+| rmGRO, Reality3D                                | Punktwolken-Verarbeitung, vermessungstechnische Auswertungen | rmData         | 🇦🇹 Pinkafeld, Österreich |
 | Jira                                            | Ticket- und Kollaborations-Plattform       | Atlassian         | 🇦🇺 Sydney, Australien   |
 
 Die hier gelisteten Produktnamen sind eingetragene Marken der jeweiligen Unternehmen. Die Stadt Winterthur erhebt keinen Anspruch auf diese Marken.
