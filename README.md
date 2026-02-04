@@ -61,5 +61,7 @@ Dieses Dokument gibt eine Zusammenstellung der in der **Geodateninfrastruktur Wi
 | ArcGIS                                          | Desktop- und Online-GIS                    | Esri              | 🇺🇸 Redlands, USA        |
 | rmGEO, Reality3D                                | Punktwolken-Verarbeitung, vermessungstechnische Auswertungen | rmData         | 🇦🇹 Pinkafeld, Österreich |
 | Jira                                            | Ticket- und Kollaborations-Plattform       | Atlassian         | 🇦🇺 Sydney, Australien   |
+| RealWorks, Business Center u.v.w.m.             | Auswertung und Verarbeitung von Punktwolken, Geländedaten, Totalstation etc.  | Trimble via allnav  | 🇺🇸 Westminster, USA   |
+| Mavic 3E RTK  | Drohne mit RTK-Modul  | DJI via allnav | 🇨🇳 Shenzhen, China   |
 
 Die hier gelisteten Produktnamen sind eingetragene Marken der jeweiligen Unternehmen. Die Stadt Winterthur erhebt keinen Anspruch auf diese Marken.
