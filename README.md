@@ -50,7 +50,7 @@ Dieses Dokument gibt eine Zusammenstellung der in der **Geodateninfrastruktur Wi
 
 ## Applikationen für die Geodateninfrastruktur Winterthur mit laufendem Wartungsvertrag
 
-Die folgende Tabelle enthält eine möglichst vollständige Übersicht aller **Applikationen** der Stadtverwaltung Winterthur, die von der **Fachstelle Geoinformation** betrieben werden und zu denen **regelmässige Zahlungen** z.B. für Wartung oder Lizenzen an externe Partner erfolgen. Diese öffentliche Publikation soll der **Transparenz über Lieferantenbeziehungen und der externen Abhängigkeiten** dienen.
+Die folgende Tabelle enthält eine möglichst vollständige Übersicht derjenigen **Applikationen** der Stadtverwaltung Winterthur, die von der **Fachstelle Geoinformation** betrieben werden und zu denen **regelmässige Zahlungen** z.B. für Wartung oder Lizenzen an externe Partner erfolgen. Diese öffentliche Publikation soll der **Transparenz über Lieferantenbeziehungen und der externen Abhängigkeiten** dienen.
 
 | Applikation                                     | Einsatzzweck                               | Anbieter          | Hauptsitz              |
 | ----------------------------------------------- | ------------------------------------------ | ----------------- | ---------------------- |
